@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "testServer": "",
+    "clientId": "",
+    "devs": [""],
+    "vost": true,
+    "//vost_desc":  "Set it to true if you want VOST results only.",
+    "hd": true,
+    "//hd_desc": "Set it to true if you want HD results only."
+}

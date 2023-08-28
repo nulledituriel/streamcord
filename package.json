@@ -1,0 +1,16 @@
+{
+  "name": "streamcord",
+  "version": "1.0.0",
+  "description": "a discord bot for everything steaming-related",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ituriel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.13.0"
+  }
+}
